@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeerAdviser</string>
+    <string-array name="beer_types">
+        <item>Ganesh</item>
+        <item>gurappan</item>
+        <item>Guna</item>
+    </string-array>
+    <string name="Buttonoption">Submit</string>
+    <string name="result">Result</string>
+</resources>
